@@ -14,4 +14,4 @@
 **Repository** - a location where all of the project files are stored
 
 
-References: Github Docs, Atlassian Bitbucket, HowToGeek
+References: Github Docs
