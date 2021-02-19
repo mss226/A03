@@ -1,7 +1,7 @@
 # A03
 
-**Branch** -  A branch allows a developer to continue working without affecting their other work. It is meant to isolate their work and can be thought of a different path.
-**Clone** - A clone lets you create an exact copy of a repository
+**Branch** -  A branch allows a developer to continue working without affecting their other work. It is meant to isolate their work and can be thought of a different path. <br />
+**Clone** - A clone lets you create an exact copy of a repository. <br />
 **Commit** - A commit is simply a revision to your work
 **Fetch** - has you local git workspace to retrieve meta data, it doesnot trasnfer any files or data
 **GIT** - version control system
