@@ -7,7 +7,7 @@ Instruction to download and use Webstorm, Git, GitHub <br />
 3. Launch the installer and select the defaults <br />
 4. Download the correct version of Git and install (keeping the defaults) <br />
 5. Create a GitHub account  <br />
-6. Add github to webstorm by going to system preferences by doing CTRL ALT S and under version control select Git and test to make sure it detects it<br />
+6. Add git to webstorm by going to system preferences by doing CTRL ALT S and under version control select Git and test to make sure it detects it<br />
 7. Click on the VCS button in Webstorm (version contorl) and enable version contorl integration<br />
 8. Make sure Git is selected and press ok (this will create a Git repository)<br />
 9. go to the Git option on the top of Webstorm and select commit whenever there are changes<br />
